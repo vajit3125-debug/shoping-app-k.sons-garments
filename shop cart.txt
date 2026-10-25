@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Shopping Website</title>
+</head>
+
+<body style="background-color: lightyellow;">
+
+    <h1 style="text-align:center;">My Shopping Store</h1>
+
+    <hr>
+
+    <h2>Our Products</h2>
+
+    <div>
+        <h3>T-Shirt</h3>
+        <p>Price: ₹499</p>
+        <button>Add to Cart</button>
+    </div>
+
+    <hr>
+
+    <div>
+        <h3>Jeans</h3>
+        <p>Price: ₹999</p>
+        <button>Add to Cart</button>
+    </div>
+
+    <hr>
+
+    <div>
+        <h3>Shoes</h3>
+        <p>Price: ₹1499</p>
+        <button>Add to Cart</button>
+    </div>
+
+    <hr>
+
+    <h2>Thank You for Visiting!</h2>
+
+</body>
+</html>
